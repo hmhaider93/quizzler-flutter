@@ -1,5 +1,5 @@
 import 'package:quizzler/questions.dart';
-
+// TODO: Store all questions in a json file, and read that in for questions.
 class Quizbrain {
 
   int _questionNumber = 0; 
